@@ -4,7 +4,7 @@ import random
 delivery_methods = [
     "Home delivery",
     "Pickup at restaurant",
-    "Meeting point delivery",
+    "Meeting point delivery", 
     "Express delivery",
     "Scheduled delivery",
     "Courier delivery",
