@@ -2,7 +2,7 @@ import json
 import random
  
 def generate_delivery_addresses():
-    with open('address_data.json') as f:
+    with open('address_data.json') as f: 
         data = json.load(f)
     
     street_names = data['street_names']
