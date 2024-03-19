@@ -3,7 +3,7 @@ import random
 payment_methods = [
     "Cash",
     "Credit card",
-    "Debit card",
+    "Debit card", 
     "Bank transfer",
     "PayPal",
     "Mercado Pago",
