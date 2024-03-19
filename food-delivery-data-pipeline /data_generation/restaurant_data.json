@@ -1,0 +1,98 @@
+{
+    "Mexican": [
+        {"Name": "La Parrilla de Don José", "Address": "Av. Constitución #970, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Tacos Tío Pepe", "Address": "Calle Reforma #848, Col. El Parque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Tacos al Barbón", "Address": "Av. 16 de Septiembre #222, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Taquería El Charro", "Address": "Calle Juárez #650, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "La Cantina de Juan", "Address": "Av. Constitución #970, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Burritos El Chilango", "Address": "Av. Las Rosas #894, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "El Molcajete Feliz", "Address": "Av. Cuauhtémoc #247, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Antojitos Mexicanos", "Address": "Av. 4 Poniente #224, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Cocina Mexicana Rosa", "Address": "Av. Constitución #970, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Sabor a México", "Address": "Av. Insurgentes #785, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"}
+    ],
+    "Italian": [
+        {"Name": "Pizzería Bella Napoli", "Address": "Calle Madero #481, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Ristorante Il Forno", "Address": "Av. Centenario #210, Col. El Parque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Trattoria La Famiglia", "Address": "Av. Constitución #970, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Osteria Delizia", "Address": "Calle 9 Sur #592, Col. El Parque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Pasta e Vino", "Address": "Calle Victoria #974, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Caffè Roma", "Address": "Calle 1 Sur #782, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Gelateria Amore", "Address": "Av. Cuauhtémoc #247, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Pizza Express", "Address": "Av. Constitución #970, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "La Piazza", "Address": "Calle Independencia #543, Col. Las Rosas, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Cucina Italiana Maria", "Address": "Av. 8 Poniente #796, Col. La Garita, Tuxtla Gutiérrez, Chiapas"}
+    ],
+    "Japanese": [
+        {"Name": "Sushi House", "Address": "Av. Centenario #210, Col. El Parque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Tokyo Sushi Bar", "Address": "Calle 16 de Septiembre #939, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Omakase Sushi Lounge", "Address": "Calle 5 Sur #248, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Sake Sushi & Grill", "Address": "Calle Pino Suárez #295, Col. San José Terán, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Sushi Garden", "Address": "Av. 5 de Mayo #596, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Zen Ramen & Sushi", "Address": "Calle Reforma #848, Col. El Parque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Umi Sushi", "Address": "Av. Revolución #930, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Yuki Sushi", "Address": "Av. 6 Oriente #370, Col. El Bosque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Sushi Island", "Address": "Av. Los Pinos #639, Col. San José Terán, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Mizu Sushi", "Address": "Calle Cervantes #897, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"}
+    ],
+    "Chinese": [
+        {"Name": "Golden Dragon", "Address": "Av. Los Pinos #639, Col. San José Terán, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Peking Garden", "Address": "Calle Allende #904, Col. El Bosque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Chopstick Palace", "Address": "Calle 7 Norte #263, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Dragon Wok", "Address": "Av. 8 Poniente #796, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Great Wall Chinese", "Address": "Calle 1 Sur #782, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Panda Express", "Address": "Av. Las Rosas #894, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "China Garden", "Address": "Av. 16 de Septiembre #222, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Lucky Panda", "Address": "Av. 4 Poniente #224, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Red Lantern", "Address": "Calle Constitución #438, Col. El Retiro, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Jade Palace", "Address": "Av. 4 Poniente #224, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"}
+    ],
+    "American": [
+        {"Name": "Burger Barn", "Address": "Calle Victoria #974, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Steakhouse Grill", "Address": "Av. Reforma #299, Col. Las Rosas, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Uncle Sam's Diner", "Address": "Av. 5 de Mayo #596, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Smokehouse BBQ", "Address": "Calle 16 de Septiembre #939, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Patty's Pizzeria", "Address": "Av. Héroes de Chapultepec #249, Col. El Retiro, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Hotdog Heaven", "Address": "Calle 1 Sur #782, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Chicken Shack", "Address": "Av. 8 Poniente #796, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Fried Chicken House", "Address": "Av. Chapultepec #982, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "All-American Buffet", "Address": "Calle Reforma #848, Col. El Parque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "The Burger Joint", "Address": "Calle 16 de Septiembre #939, Col. La Joya, Tuxtla Gutiérrez, Chiapas"}
+    ],
+    "Indian": [
+        {"Name": "Taj Mahal Curry House", "Address": "Calle 16 de Septiembre #939, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Bombay Bistro", "Address": "Av. Reforma #299, Col. Las Rosas, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Masala Grill", "Address": "Calle 10 Poniente #739, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Curry Kitchen", "Address": "Av. Constitución #970, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Spice Junction", "Address": "Calle Victoria #974, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Flavors of India", "Address": "Calle 16 de Septiembre #939, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Saffron Restaurant", "Address": "Av. Cuauhtémoc #247, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Garam Masala", "Address": "Calle Reforma #848, Col. El Parque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Chaat Corner", "Address": "Calle Independencia #543, Col. Las Rosas, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Namaste Indian Cuisine", "Address": "Calle Victoria #974, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"}
+    ],
+    "Thai": [
+        {"Name": "Thai Orchid", "Address": "Calle Pino Suárez #295, Col. San José Terán, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Bangkok Street", "Address": "Av. 5 de Mayo #596, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Lotus Thai Cuisine", "Address": "Calle Juárez #650, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Siam Spice", "Address": "Calle Pino Suárez #295, Col. San José Terán, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Thai Basil", "Address": "Calle 3 Norte #512, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Thai Kitchen", "Address": "Calle 1 Sur #782, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Chili Thai", "Address": "Av. 4 Poniente #224, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Sabaidee Thai", "Address": "Calle Allende #904, Col. El Bosque, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Thai Elephant", "Address": "Calle 5 Sur #248, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Spice Thai Restaurant", "Address": "Av. Insurgentes #785, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"}
+    ],
+    "Vegetarian": [
+        {"Name": "Green Leaf Café", "Address": "Calle Zaragoza #117, Col. Las Rosas, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "VegeNation", "Address": "Calle 5 Sur #248, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "The Green Fork", "Address": "Av. 16 de Septiembre #222, Col. El Sabino, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Veggie Grill", "Address": "Av. Las Rosas #894, Col. La Floresta, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Veggie Heaven", "Address": "Calle Juárez #650, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Pure Vegetarian", "Address": "Calle 7 Norte #263, Col. La Joya, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Greens & Grains", "Address": "Av. Benito Juárez #725, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Vegan Delight", "Address": "Av. 8 Poniente #796, Col. La Garita, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Vegetarian Garden", "Address": "Calle 3 Norte #512, Col. Arroyo Blanco, Tuxtla Gutiérrez, Chiapas"},
+        {"Name": "Leafy Greens", "Address": "Calle 1 Sur #782, Col. San Marcos, Tuxtla Gutiérrez, Chiapas"}
+    ]
+}

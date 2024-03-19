@@ -1,0 +1,24 @@
+{
+  "street_names": [
+    "Av. Las Rosas", "Calle Juárez", "Av. Chapultepec", "Calle Cervantes", "Av. Miguel Hidalgo",
+    "Calle 16 de Septiembre", "Av. Constitución", "Calle Reforma", "Av. Los Pinos", "Calle Independencia",
+    "Av. Héroes de Chapultepec", "Calle Zaragoza", "Av. Insurgentes", "Calle Victoria", "Av. Benito Juárez",
+    "Calle Morelos", "Av. 5 de Mayo", "Calle Hidalgo", "Av. Revolución", "Calle Allende",
+    "Av. Cuauhtémoc", "Calle Madero", "Av. Centenario", "Calle Pino Suárez", "Av. Reforma",
+    "Calle Constitución", "Av. 20 de Noviembre", "Calle 5 Sur", "Av. 16 de Septiembre",
+    "Calle 10 Poniente", "Av. 2 Oriente", "Calle 3 Norte", "Av. 4 Poniente", "Calle 1 Sur",
+    "Av. 6 Oriente", "Calle 7 Norte", "Av. 8 Poniente", "Calle 9 Sur"
+  ],
+  "city": "Tuxtla Gutiérrez",
+  "state": "Chiapas",
+  "neighborhoods": [
+    "Col. La Floresta", "Col. Arroyo Blanco", "Col. El Sabino", "Col. San Marcos", "Col. El Bosque",
+    "Col. La Joya", "Col. La Garita", "Col. El Parque", "Col. San José Terán", "Col. Las Rosas",
+    "Col. El Retiro", "Col. Las Rosas", "Col. La Floresta", "Col. El Sabino", "Col. San Marcos",
+    "Col. La Floresta", "Col. Arroyo Blanco", "Col. El Sabino", "Col. San Marcos", "Col. El Bosque",
+    "Col. La Joya", "Col. La Garita", "Col. El Parque", "Col. San José Terán", "Col. Las Rosas",
+    "Col. El Retiro", "Col. Las Rosas", "Col. La Floresta", "Col. El Sabino", "Col. San Marcos",
+    "Col. La Floresta", "Col. Arroyo Blanco", "Col. El Sabino", "Col. San Marcos", "Col. El Bosque",
+    "Col. La Joya", "Col. La Garita", "Col. El Parque", "Col. San José Terán", "Col. Las Rosas"
+  ]
+}
