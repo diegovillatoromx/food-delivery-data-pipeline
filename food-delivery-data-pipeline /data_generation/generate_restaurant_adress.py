@@ -1,7 +1,6 @@
 import json
-import random
-  
-def load_restaurant_data('restaurant_data.json'):
+
+def load_restaurant_data(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return data
