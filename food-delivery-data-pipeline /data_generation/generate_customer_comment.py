@@ -1,4 +1,4 @@
-import random
+import random 
 
 # List of customer comments
 customer_comments = [
