@@ -1,6 +1,6 @@
 import random
 from datetime import datetime, timedelta
-
+ 
 # Definition of trip durations 
 trip_durations = [f"{i} minutes" for i in range(20, 95, 5)]
  
