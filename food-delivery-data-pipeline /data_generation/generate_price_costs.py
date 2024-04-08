@@ -1,4 +1,4 @@
-import random 
+import random  
  
 # Average prices of products in each type of restaurant
 average_prices = {
