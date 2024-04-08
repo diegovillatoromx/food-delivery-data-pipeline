@@ -1,4 +1,4 @@
-import random
+import random 
 payment_methods = [ 
     "Cash",
     "Credit card",
