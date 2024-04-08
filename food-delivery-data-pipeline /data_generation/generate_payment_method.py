@@ -1,5 +1,5 @@
 import random
-payment_methods = [
+payment_methods = [ 
     "Cash",
     "Credit card",
     "Debit card", 
