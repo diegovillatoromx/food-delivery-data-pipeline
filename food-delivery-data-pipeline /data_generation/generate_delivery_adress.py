@@ -1,5 +1,5 @@
 import json 
-import random 
+import random  
  
 def generate_delivery_addresses():
     with open('address_data.json') as f:
