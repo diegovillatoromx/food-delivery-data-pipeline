@@ -1,6 +1,6 @@
 import random   
 
-# List of customer comments
+# List of customer comments 
 customer_comments = [
     "No onions",
     "Gluten-free",
