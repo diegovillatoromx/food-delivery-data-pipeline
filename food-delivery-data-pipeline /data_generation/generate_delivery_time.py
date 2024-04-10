@@ -1,4 +1,4 @@
-import random 
+import random  
 from datetime import datetime, timedelta   
  
 # Definition of trip durations 
