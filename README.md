@@ -4,4 +4,3 @@ The data analysis project for the food delivery service aims to utilize data eng
 From initial data ingestion to the generation of reports and interactive visualizations, the project spans the entire data analysis lifecycle to offer a comprehensive and detailed view of the food delivery service's operations.
     
  
- 
