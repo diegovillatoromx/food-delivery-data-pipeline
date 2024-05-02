@@ -1,4 +1,4 @@
-import random   
+import random  
 
 # List of delivery methods
 delivery_methods = [
