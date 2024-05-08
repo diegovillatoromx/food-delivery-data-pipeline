@@ -6,7 +6,7 @@ from generate_delivery_address import generate_delivery_addresses
 from generate_delivery_method import generate_delivery_method
 from generate_delivery_time import calculate_delivery_time
 from generate_payment_method import choose_payment_method
-from generate_price_costs import generate_product_order
+from generate_price_costs import generate_product_order 
 from generate_restaurant_address import load_restaurant_data, get_random_restaurant
 
 def generate_purchase():
