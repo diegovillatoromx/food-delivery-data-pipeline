@@ -3,7 +3,7 @@ import json
 import hashlib 
 from generate_customer_comment import generate_customer_comment
 from generate_delivery_address import generate_delivery_addresses
-from generate_delivery_method import generate_delivery_method
+from generate_delivery_method import generate_delivery_method 
 from generate_delivery_time import calculate_delivery_time
 from generate_payment_method import choose_payment_method
 from generate_price_costs import generate_product_order 
