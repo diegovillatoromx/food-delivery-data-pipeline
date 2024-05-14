@@ -1,5 +1,5 @@
 import random  
-
+ 
 # List of customer comments 
 customer_comments = [
     "No onions",
