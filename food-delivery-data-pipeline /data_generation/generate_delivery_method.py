@@ -3,7 +3,7 @@ import random
 # List of delivery methods
 delivery_methods = [
     "Home delivery", 
-    "Pickup at restaurant",
+    "Pickup at restaurant", 
     "Meeting point delivery", 
     "Express delivery",
     "Scheduled delivery",
