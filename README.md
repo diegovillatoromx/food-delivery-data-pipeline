@@ -153,3 +153,15 @@ This script generates a random address for a restaurant. It can be used to simul
 
 These scripts and data files can be used together to simulate realistic data for orders, customers, products, and deliveries in a food delivery service. They provide a foundation for testing and validating data pipelines and analytics solutions for such services.
 
+
+
+### Contact
+
+For any inquiries or feedback regarding this project, feel free to reach out to:
+
+- **Name:** Diego Villatoro
+- **Email:** diegovillatoromx
+- **GitHub Repository:** https://github.com/diegovillatoromx/food-delivery-data-pipeline/
+
+Your feedback and suggestions are valuable and will help improve this project for the benefit of the community.
+
