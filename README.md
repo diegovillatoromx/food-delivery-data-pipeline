@@ -123,28 +123,28 @@ To use the data simulation function for a food delivery service, follow these st
 
 ## Detailed Script Overview
 
-### 1. [generate_order_data.py](food-delivery-data-pipeline /data_generation/generate_order_data.py)
+### 1. [generate_order_data.py](data_generation/generate_order_data.py)
 This script generates simulated data for an order, including details such as delivery address, delivery method, delivery time, restaurant category, restaurant name, product order, customer comment, and payment method. It uses other scripts to generate specific parts of the order data, such as the delivery address, delivery method, delivery time, product order, customer comment, and payment method. The generated data is suitable for simulating orders in a food delivery service.
 
-### 2. [generate_customer_comment.py](food-delivery-data-pipeline/data_generation/generate_customer_comment.py)
+### 2. [generate_customer_comment.py](data_generation/generate_customer_comment.py)
 This script generates a random customer comment for an order. It can be used to simulate customer feedback and preferences in a food delivery service.
 
-### 3. [generate_delivery_address.py](food-delivery-data-pipeline/data_generation/generate_delivery_address.py)
+### 3. [generate_delivery_address.py](data_generation/generate_delivery_address.py)
 This script generates a random delivery address for an order. It can be used to simulate different delivery locations in a food delivery service.
 
-### 4. [generate_delivery_method.py](food-delivery-data-pipeline/data_generation/generate_delivery_method.py)
+### 4. [generate_delivery_method.py](data_generation/generate_delivery_method.py)
 This script generates a random delivery method for an order. It can be used to simulate different delivery options, such as standard delivery, express delivery, or pick-up, in a food delivery service.
 
-### 5. [generate_delivery_time.py](food-delivery-data-pipeline/data_generation/generate_delivery_time.py)
+### 5. [generate_delivery_time.py](data_generation/generate_delivery_time.py)
 This script calculates a random delivery time for an order based on the current time. It can be used to simulate realistic delivery times in a food delivery service.
 
-### 6. [generate_payment_method.py](food-delivery-data-pipeline/data_generation/generate_payment_method.py)
+### 6. [generate_payment_method.py](data_generation/generate_payment_method.py)
 This script chooses a random payment method for an order. It can be used to simulate different payment options, such as credit card, cash on delivery, or mobile payment, in a food delivery service.
 
-### 7. [generate_price_costs.py](food-delivery-data-pipeline/data_generation/generate_price_costs.py)
+### 7. [generate_price_costs.py](data_generation/generate_price_costs.py)
 This script generates random prices and costs for products and orders. It can be used to simulate pricing information in a food delivery service.
 
-### 8. [generate_restaurant_address.py](food-delivery-data-pipeline/data_generation/generate_restaurant_address.py)
+### 8. [generate_restaurant_address.py](data_generation/generate_restaurant_address.py)
 This script generates a random address for a restaurant. It can be used to simulate different restaurant locations in a food delivery service.
 
 ### Data Files
