@@ -49,12 +49,6 @@ The purpose of this project is to facilitate the creation of realistic datasets 
 
 The data simulation process involves generating realistic data for orders in a food delivery service. This process includes three main parts:
 
-1. **Data Generation**: In this step, various aspects of the order are generated, such as delivery address, delivery method, delivery time, restaurant details, product order, customer comment, and payment method. This step uses a combination of predefined data and random generation to simulate realistic orders.
-
-2. **Data Structure**: The generated data follows a structured format to ensure consistency and usability. Each order includes specific fields such as purchase ID, delivery address, delivery method, delivery time, restaurant category and name, product order details, customer comment, and payment method.
-
-3. **Simulated Events**: These events represent different stages of the order process and include placing the order, preparing the order, delivering the order, and completing the order. Each event is simulated based on the generated data and provides a comprehensive view of the order lifecycle.
-
 ### Data Generation
 
 The `generate_order_data.py` script is the primary script responsible for generating order data. It imports various functions for generating different aspects of the order, such as delivery address, delivery method, delivery time, restaurant details, product order, customer comment, and payment method. These functions use random generation and predefined data to create realistic orders.
