@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 # Definition of trip durations  
 trip_durations = [f"{i} minutes" for i in range(20, 95, 5)]
   
-# Definition of waiting times
+# Definition of waiting times 
 waiting_times = [i for i in range(5, 30, 5)]  # Assuming waiting time can vary from 5 to 25 minutes in 5-minute increments
 
 # Definition of preparation times
