@@ -83,3 +83,28 @@ The simulated events for each order include the following stages:
 4. **Completing the Order**: The customer receives the order and completes the transaction.
 
 Each event is simulated based on the generated data and provides a realistic representation of the order process.
+
+
+```python
+{
+    "Purchase_ID": "01a29e2b0e",
+    "Delivery Address": "Calle Juárez #695, Col. San Marcos, Tuxtla Gutiérrez, Chiapas",
+    "Delivery Method": "Meeting point delivery",
+    "Creation time": "2024-03-12 15:42:00",
+    "Waiting times": "15 minutes",
+    "Preparation times": "20 minutes",
+    "Distances to restaurant": "3 minutes",
+    "Trip durations": "40 minutes",
+    "Delivery time": "2024-03-12 16:40:00",
+    "Restaurant Category": "Mexican",
+    "Restaurant Name": "Burritos El Chilango",
+    "Product Quantity": 8,
+    "Price Per Item": 8.5,
+    "Total Price": 68.0,
+    "User Credits": 50,
+    "Applied Promotion": "Buy one get one free",
+    "Final Cost": 0.0,
+    "Customer Comment": "Sugar-free",
+    "Payment Method": "Cash on delivery"
+}
+```
