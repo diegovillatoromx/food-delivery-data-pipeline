@@ -82,8 +82,7 @@ The simulated events for each order include the following stages:
 3. **Delivering the Order**: The delivery service picks up the order from the restaurant and delivers it to the customer.
 4. **Completing the Order**: The customer receives the order and completes the transaction.
 
-Each event is simulated based on the generated data and provides a realistic representation of the order process.
-
+Each event is simulated based on the generated data and provides a realistic representation of the order process. `The generate_order_data.py` script generates a `JSON` object representing an order. Here's an example of the output:
 
 ```python
 {
