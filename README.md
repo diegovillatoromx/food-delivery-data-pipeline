@@ -13,20 +13,14 @@ The Real-Time Data Simulator Function provides a Python function that generates 
    - [Data Structure](#data-structure)
    - [Simulated Events](#simulated-events)
 5. [Usage](#usage)
-6. [Installation](#installation)
-7. [Requirements](#requirements)
-8. [Example](#example)
-9. [Detailed Script Overview](#detailed-script-overview)
+6. [Detailed Script Overview](#detailed-script-overview)
    - [generate_order_data.py](#generate_order_data.py)
    - [generate_customer_data.py](#generate_customer_data.py)
    - [generate_product_data.py](#generate_product_data.py)
    - [generate_payment_data.py](#generate_payment_data.py)
    - [generate_delivery_data.py](#generate_delivery_data.py)
-10. [Integration with Data Pipeline](#integration-with-data-pipeline)
-11. [Future Enhancements](#future-enhancements)
-12. [Contributing](#contributing)
-13. [Contact](#contact)
-14. [License](#license)
+7. [Contact](#contact)
+8. [License](#license)
 
 ## Introduction
 
@@ -125,3 +119,30 @@ To use the data simulation function for a food delivery service, follow these st
 6. **Customization**: You can customize the data generation process by modifying the script or its dependencies. For example, you can adjust the frequency of orders, the types of products offered, or the delivery options available.
 
 7. **Integration**: Integrate the generated data into your data pipeline or analytics platform for further analysis. The simulated data can be used to test and validate the functionality of your data pipeline or to generate insights into the operations and performance of the food delivery business.
+
+
+## Detailed Script Overview
+
+The data simulation function consists of several Python scripts that work together to generate simulated data for orders, customers, products, payments, and deliveries. Each script is responsible for generating a specific type of data. Below is an overview of each script:
+
+### [generate_order_data.py](./generate_order_data.py)
+
+This script generates simulated order data, including details such as purchase ID, delivery address, delivery method, delivery time, restaurant category and name, product order details, customer comment, and payment method.
+
+### [generate_customer_data.py](./generate_customer_data.py)
+
+This script generates simulated customer data, including details such as customer ID, name, email address, phone number, and delivery address.
+
+### [generate_product_data.py](./generate_product_data.py)
+
+This script generates simulated product data, including details such as product ID, name, description, category, price, and availability.
+
+### [generate_payment_data.py](./generate_payment_data.py)
+
+This script generates simulated payment data, including details such as payment ID, payment method, transaction amount, and transaction timestamp.
+
+### [generate_delivery_data.py](./generate_delivery_data.py)
+
+This script generates simulated delivery data, including details such as delivery ID, delivery status, delivery driver ID, and delivery time.
+
+Each script can be run independently to generate the corresponding type of data. The generated data can then be integrated into the data pipeline or analytics platform for further analysis and testing.
