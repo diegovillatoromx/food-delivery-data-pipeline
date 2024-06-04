@@ -8,7 +8,7 @@ def generate_delivery_addresses():
     street_names = data['street_names']
     neighborhoods = data['neighborhoods']
     city = data['city']
-    state = data['state']
+    state = data['state'] 
 
     street_numbers = [random.randint(100, 999) for _ in range(len(street_names))]
     
