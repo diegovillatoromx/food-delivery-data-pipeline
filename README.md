@@ -123,7 +123,7 @@ To use the data simulation function for a food delivery service, follow these st
 
 ## Detailed Script Overview
 
-### 1. [generate_order_data.py](food-delivery-data-pipeline/data_generation/generate_order_data.py)
+### 1. [generate_order_data.py](food-delivery-data-pipeline /data_generation/generate_order_data.py)
 This script generates simulated data for an order, including details such as delivery address, delivery method, delivery time, restaurant category, restaurant name, product order, customer comment, and payment method. It uses other scripts to generate specific parts of the order data, such as the delivery address, delivery method, delivery time, product order, customer comment, and payment method. The generated data is suitable for simulating orders in a food delivery service.
 
 ### 2. [generate_customer_comment.py](food-delivery-data-pipeline/data_generation/generate_customer_comment.py)
