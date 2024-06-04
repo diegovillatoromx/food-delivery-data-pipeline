@@ -123,26 +123,41 @@ To use the data simulation function for a food delivery service, follow these st
 
 ## Detailed Script Overview
 
-The data simulation function consists of several Python scripts that work together to generate simulated data for orders, customers, products, payments, and deliveries. Each script is responsible for generating a specific type of data. Below is an overview of each script:
+### 1. [generate_order_data.py](food-delivery-data-pipeline
+/data_generation/generate_order_data.py)
+This script generates simulated data for an order, including details such as delivery address, delivery method, delivery time, restaurant category, restaurant name, product order, customer comment, and payment method. It uses other scripts to generate specific parts of the order data, such as the delivery address, delivery method, delivery time, product order, customer comment, and payment method. The generated data is suitable for simulating orders in a food delivery service.
 
-### [generate_order_data.py](./generate_order_data.py)
+### 2. [generate_customer_comment.py](food-delivery-data-pipeline
+/data_generation/generate_customer_comment.py)
+This script generates a random customer comment for an order. It can be used to simulate customer feedback and preferences in a food delivery service.
 
-This script generates simulated order data, including details such as purchase ID, delivery address, delivery method, delivery time, restaurant category and name, product order details, customer comment, and payment method.
+### 3. [generate_delivery_address.py](food-delivery-data-pipeline
+/data_generation/generate_delivery_address.py)
+This script generates a random delivery address for an order. It can be used to simulate different delivery locations in a food delivery service.
 
-### [generate_customer_data.py](./generate_customer_data.py)
+### 4. [generate_delivery_method.py](food-delivery-data-pipeline
+/data_generation/generate_delivery_method.py)
+This script generates a random delivery method for an order. It can be used to simulate different delivery options, such as standard delivery, express delivery, or pick-up, in a food delivery service.
 
-This script generates simulated customer data, including details such as customer ID, name, email address, phone number, and delivery address.
+### 5. [generate_delivery_time.py](food-delivery-data-pipeline
+/data_generation/generate_delivery_time.py)
+This script calculates a random delivery time for an order based on the current time. It can be used to simulate realistic delivery times in a food delivery service.
 
-### [generate_product_data.py](./generate_product_data.py)
+### 6. [generate_payment_method.py](food-delivery-data-pipeline
+/data_generation/generate_payment_method.py)
+This script chooses a random payment method for an order. It can be used to simulate different payment options, such as credit card, cash on delivery, or mobile payment, in a food delivery service.
 
-This script generates simulated product data, including details such as product ID, name, description, category, price, and availability.
+### 7. [generate_price_costs.py](food-delivery-data-pipeline
+/data_generation/generate_price_costs.py)
+This script generates random prices and costs for products and orders. It can be used to simulate pricing information in a food delivery service.
 
-### [generate_payment_data.py](./generate_payment_data.py)
+### 8. [generate_restaurant_address.py](food-delivery-data-pipeline
+/data_generation/generate_restaurant_address.py)
+This script generates a random address for a restaurant. It can be used to simulate different restaurant locations in a food delivery service.
 
-This script generates simulated payment data, including details such as payment ID, payment method, transaction amount, and transaction timestamp.
+### Data Files
+- **adress_data.json**: JSON file containing sample address data.
+- **restaurant_data.json**: JSON file containing sample restaurant data.
 
-### [generate_delivery_data.py](./generate_delivery_data.py)
+These scripts and data files can be used together to simulate realistic data for orders, customers, products, and deliveries in a food delivery service. They provide a foundation for testing and validating data pipelines and analytics solutions for such services.
 
-This script generates simulated delivery data, including details such as delivery ID, delivery status, delivery driver ID, and delivery time.
-
-Each script can be run independently to generate the corresponding type of data. The generated data can then be integrated into the data pipeline or analytics platform for further analysis and testing.
