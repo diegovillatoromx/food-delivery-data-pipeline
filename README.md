@@ -43,3 +43,43 @@ The purpose of this project is to facilitate the creation of realistic datasets 
 - Realistic Data Distribution: The function uses probabilistic distributions to simulate realistic patterns in data, such as the distribution of order values, the frequency of customer orders, and the geographical distribution of customers. This approach ensures that the generated data closely resembles actual data distributions.
 - Easy Integration: The function can be easily integrated into existing Python scripts and data pipelines. Users can call the function to generate data on-demand or incorporate it into automated testing processes.
 - Scalability: The function is designed to scale with the needs of the user. Whether generating data for a small-scale test or a large-scale simulation, the function can handle varying data generation requirements efficiently.
+
+
+## Data Simulation
+
+The data simulation process involves generating realistic data for orders in a food delivery service. This process includes three main parts:
+
+1. **Data Generation**: In this step, various aspects of the order are generated, such as delivery address, delivery method, delivery time, restaurant details, product order, customer comment, and payment method. This step uses a combination of predefined data and random generation to simulate realistic orders.
+
+2. **Data Structure**: The generated data follows a structured format to ensure consistency and usability. Each order includes specific fields such as purchase ID, delivery address, delivery method, delivery time, restaurant category and name, product order details, customer comment, and payment method.
+
+3. **Simulated Events**: These events represent different stages of the order process and include placing the order, preparing the order, delivering the order, and completing the order. Each event is simulated based on the generated data and provides a comprehensive view of the order lifecycle.
+
+### Data Generation
+
+The `generate_order_data.py` script is the primary script responsible for generating order data. It imports various functions for generating different aspects of the order, such as delivery address, delivery method, delivery time, restaurant details, product order, customer comment, and payment method. These functions use random generation and predefined data to create realistic orders.
+
+### Data Structure
+
+The data structure of the generated orders includes the following fields:
+
+- **Purchase_ID**: A unique identifier for each purchase, generated using a combination of delivery time and delivery method.
+- **Delivery Address**: The address to which the order will be delivered.
+- **Delivery Method**: The method of delivery chosen by the customer.
+- **Delivery Time**: The estimated time for delivery, calculated based on various factors.
+- **Restaurant Category**: The category of the restaurant from which the order is placed.
+- **Restaurant Name**: The name of the restaurant from which the order is placed.
+- **Product Order**: Details of the products ordered, including category, name, and quantity.
+- **Customer Comment**: Any additional comments or instructions provided by the customer.
+- **Payment Method**: The method of payment chosen by the customer.
+
+### Simulated Events
+
+The simulated events for each order include the following stages:
+
+1. **Placing the Order**: The customer places an order on the food delivery platform.
+2. **Preparing the Order**: The restaurant receives the order and begins preparing it.
+3. **Delivering the Order**: The delivery service picks up the order from the restaurant and delivers it to the customer.
+4. **Completing the Order**: The customer receives the order and completes the transaction.
+
+Each event is simulated based on the generated data and provides a realistic representation of the order process.
