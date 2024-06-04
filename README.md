@@ -101,3 +101,27 @@ Each event is simulated based on the generated data and provides a realistic rep
     "Payment Method": "Cash on delivery"
 }
 ```
+
+
+## Usage
+
+To use the data simulation function for a food delivery service, follow these steps:
+
+1. **Setup Environment**: Ensure you have Python installed on your machine. This function is compatible with Python 3.x.
+
+2. **Clone Repository**: Clone the repository containing the `generate_order_data.py` script and other necessary files.
+
+3. **Install Dependencies**: Install the required dependencies by running the following command:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run Script**: Use the generate_order_data.py script to generate order data. You can run the script using the following command:
+   ```bash
+   python generate_order_data.py
+   ```
+5. **Output**: The script will generate simulated order data and display the output in the console. Each generated order will include details such as purchase ID, delivery address, delivery method, delivery time, restaurant category and name, product order details, customer comment, and payment method.
+
+6. **Customization**: You can customize the data generation process by modifying the script or its dependencies. For example, you can adjust the frequency of orders, the types of products offered, or the delivery options available.
+
+7. **Integration**: Integrate the generated data into your data pipeline or analytics platform for further analysis. The simulated data can be used to test and validate the functionality of your data pipeline or to generate insights into the operations and performance of the food delivery business.
