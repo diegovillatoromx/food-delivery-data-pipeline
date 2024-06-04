@@ -14,7 +14,7 @@ payment_methods = [
     "Payment at Extra",
     "Payment at Farmacias Guadalajara",
     "Payment at Farmacias del Ahorro",
-    "Payment at Walmart",
+    "Payment at Walmart", 
     "Payment at Soriana",
     "Payment at Oxxo",
     "Online banking payment",
