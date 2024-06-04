@@ -1,11 +1,11 @@
 import random  
  
 # Average prices of products in each type of restaurant
-average_prices = {
+average_prices = { 
     "Mexican": 8.5,
     "Italian": 12.0, 
     "Japanese": 15.0,
-    "Chinese": 10.0,
+    "Chinese": 10.0, 
     "American": 9.0,
     "Indian": 10.5,
     "Thai": 13.0,
