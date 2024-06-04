@@ -160,7 +160,7 @@ These scripts and data files can be used together to simulate realistic data for
 For any inquiries or feedback regarding this project, feel free to reach out to:
 
 - **Name:** Diego Villatoro
-- **Email:** diegovillatoromx
+- **Email:** diegovillatoromx@gmail.com
 - **GitHub Repository:** https://github.com/diegovillatoromx/food-delivery-data-pipeline/
 
 Your feedback and suggestions are valuable and will help improve this project for the benefit of the community.
