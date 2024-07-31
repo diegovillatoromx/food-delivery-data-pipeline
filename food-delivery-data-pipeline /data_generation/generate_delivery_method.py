@@ -1,5 +1,4 @@
 import random  
-
 # List of delivery methods
 delivery_methods = [
     "Home delivery", 
