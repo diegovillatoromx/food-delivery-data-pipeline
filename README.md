@@ -4,7 +4,7 @@ The Real-Time Data Simulator Function provides a Python function that generates 
 
  
 ## Table of Contents
-
+ 
 1. [Introduction](#introduction) 
 2. [Purpose](#purpose)
 3. [Key Features](#key-features)
