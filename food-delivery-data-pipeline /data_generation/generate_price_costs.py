@@ -1,5 +1,5 @@
 import random
-
+ 
 # Average prices of products in each type of restaurant
 average_prices = { 
     "Mexican": 8.5,
