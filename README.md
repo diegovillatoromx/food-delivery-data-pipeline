@@ -9,7 +9,7 @@ The Real-Time Data Simulator Function provides a Python function that generates 
 3. [Key Features](#key-features)
 4. [Data Simulation](#data-simulation)
    - [Data Generation](#data-generation)
-   - [Data Structure](#data-structure)
+   - [Data Structure](#data-structure) 
    - [Simulated Events](#simulated-events)
 5. [Usage](#usage)
 6. [Detailed Script Overview](#detailed-script-overview)
