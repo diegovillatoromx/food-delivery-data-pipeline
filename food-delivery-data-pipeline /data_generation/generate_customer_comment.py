@@ -5,7 +5,7 @@ customer_comments = [
     "No onions",
     "Gluten-free",
     "Dairy-free",
-    "Extra spicy",
+    "Extra spicy", 
     "Rare",
     "Well done",
     "Extra cheese",
